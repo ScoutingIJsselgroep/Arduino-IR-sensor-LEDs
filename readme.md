@@ -10,12 +10,14 @@ Maar je kan natuurlijk ook andere kleuren gebruiken
 
 IR ontvanger CHQ1838 is aangesloten op pin 2
 
+![Schema](https://github.com/pikoe/Arduino-IR-sensor-LEDs/blob/master/IR-receiver-LEDs.png?raw=true)
 
 ## Het programma op een Arduino Pro mini zetten
 
 De Pro mini heeft zelf geen USB aansluiting om het programma er op te kunnen zetten.
 Dit kan met een Arduino Uno, haal de microcontroller er voorzichtig uit zodat je niet deze schrijft maar de mini die je er op aan sluit.
 
+![Schema](https://github.com/pikoe/Arduino-IR-sensor-LEDs/blob/master/programm%20arduion%20pro%20mini%20with%20uno.png?raw=true)
 
 ## Het programma zelf
 
